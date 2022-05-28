@@ -5,7 +5,7 @@ import Email from "../Components/Email";
 import Password from "../Components/Password";
 import Contact from "../Components/Contact";
 import Results from "../Components/Results";
-import SignUp from "../Components/SIgnUp";
+import SignUp from "../Components/SignUp";
 const FormRoutes = () => {
   return (
     <Routes>

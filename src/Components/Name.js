@@ -72,7 +72,7 @@ const Name = () => {
     setFormState((prev) => {
       return { ...prev, firstName: name.firstName, lastName: name.lastName };
     });
-    // console.log(formState);
+
     navigate("/email");
   };
 
